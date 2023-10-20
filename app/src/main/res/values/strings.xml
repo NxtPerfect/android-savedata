@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">ZapiszDane</string>
+    <string name="name">Imię</string>
+    <string name="surname">Nazwisko</string>
+    <string name="phone">Numer telefonu</string>
+    <string name="email">E-mail</string>
+    <string name="save">Zapisz</string>
+    <string name="result">Wynik</string>
+</resources>

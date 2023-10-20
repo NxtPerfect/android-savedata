@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZapiszDane</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="phone">Phone number</string>
+    <string name="email">E-mail</string>
+    <string name="save">Save</string>
+    <string name="result">Result</string>
+</resources>
